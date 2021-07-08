@@ -18,5 +18,9 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@cogsandgears/phoenix-button": "^0.0.0",
+    "@cogsandgears/phoenix-text": "^0.0.0"
   }
 }
