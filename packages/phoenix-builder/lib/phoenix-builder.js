@@ -1,7 +1,2 @@
-'use strict';
-
-module.exports = phoenixBuilder;
-
-function phoenixBuilder() {
-    // TODO
-}
+#!/usr/bin/env node
+console.log('Woo');
