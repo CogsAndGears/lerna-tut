@@ -1,7 +1,3 @@
-'use strict';
-
-module.exports = phoenix;
-
-function phoenix() {
-    // TODO
-}
+import { Button } from '@cogsandgears/phoenix-button';
+import { Text } from '@cogsandgears/phoenix-text';
+export { Button, Text };
